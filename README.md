@@ -1,0 +1,1 @@
+# Plant-Disease-Detection-Using-Transfer-Learning-Fine-tune-a-pretrained-image-classification-model-
